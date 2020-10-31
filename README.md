@@ -1,8 +1,6 @@
-# Craft
+# Anka
 
-craft is CRA template powered by [Create React App](https://github.com/facebook/create-react-app).
-
-## Development
+Anka is project for wedding website for kretawiweka and anindita ^^
 
 ### Project Setup
 
