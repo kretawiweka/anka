@@ -1,6 +1,6 @@
 # Anka
 
-Anka is project for wedding website for kretawiweka and anindita ^^
+
 
 ### Project Setup
 
