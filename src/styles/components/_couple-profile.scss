@@ -28,7 +28,10 @@
     .item {
       max-width: 320px;
       padding: 10px;
-
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
       .circle {
         border-radius: 50%;
         height: 280px;
